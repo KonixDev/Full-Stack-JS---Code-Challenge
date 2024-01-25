@@ -1,0 +1,10 @@
+#Build Command
+cd backend && docker build -t backend-api .
+
+
+#Save Image
+docker save -o backend-api.tar backend-api
+
+
+#Load Image
+docker load -i backend-api.tar

@@ -1,0 +1,11 @@
+# .gitignore
+
+node_modules/
+.DS_Store
+
+/frontend/build/
+
+/backend/node_modules/
+/backend/dist/
+
+backend-api.tar
