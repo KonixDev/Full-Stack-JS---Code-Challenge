@@ -88,7 +88,7 @@ React + VITE, React Bootstrap
 ### Testing
 El backend proporciona un comando para testing sencillo con Mocha y Chai.
 ```bash
-npm run test
+cd backend && npm run test
 ```
 
 
