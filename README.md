@@ -3,6 +3,30 @@
 Este repositorio contiene las implementaciones del desafío Full Stack JS, que consiste en desarrollar un API en Node.js + Express y un cliente en React + React Bootstrap para consumir y mostrar información proveniente de un API externo.
 
 
+### Clonar Repositorio
+```bash
+git clone https://github.com/KonixDev/Full-Stack-JS---Code-Challenge.git
+```
+- Instalar dependencias:
+- Backend:
+```bash
+cd backend && npm install
+```
+- Front:
+```bash
+cd front && npm install
+```
+
+### Comandos
+- Iniciar backend:
+```bash
+cd backend && npm run start
+```
+- Iniciar Front:
+```bash
+cd front && npm run dev
+```
+
 ### Documentación (SWAGGER UI)
 
 Puedes acceder a la documentación aquí:
@@ -55,24 +79,6 @@ Caracteristicas del frontend:
 Programación funcional y Hook Effects en React.
 NodeJS 16
 React + VITE, React Bootstrap
-
-
-### Clonar Repositorio 
-```bash
-git clone .....
-cd backend && npm install
-cd front && npm install
-```
-
-### Comandos
-- Iniciar backend:
-```bash
-cd backend && npm run start
-```
-- Iniciar Front:
-```bash
-cd front && npm run dev
-```
 
 ### DOCKER 
 
